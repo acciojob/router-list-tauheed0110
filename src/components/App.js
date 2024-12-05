@@ -36,7 +36,7 @@ function Item(){
   return (
     <div>
       <h1>Item {id}</h1>
-      <p>Description for item {id}</p>
+      <p>Description for Item {id}</p>
     </div>
   )
 }
